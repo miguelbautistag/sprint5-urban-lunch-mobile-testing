@@ -2,7 +2,7 @@
 
 # 🗓️Project Details
 - **Type:** QA Bootcamp Project (TripleTen LatAm)
-- **Execution Date:** May 2025
+- **Execution Date:** March 2025
 - **Status:** Completed and Approved
 - **Testing Type:** Manual Mobile QA – Test Design & Execution
 
